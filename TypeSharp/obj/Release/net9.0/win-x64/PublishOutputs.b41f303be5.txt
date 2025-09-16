@@ -1,0 +1,5 @@
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\bin\Release\net9.0\win-x64\publish\TypeSharp.exe
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\bin\Release\net9.0\win-x64\publish\TypeSharp.dll
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\bin\Release\net9.0\win-x64\publish\TypeSharp.deps.json
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\bin\Release\net9.0\win-x64\publish\TypeSharp.runtimeconfig.json
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\bin\Release\net9.0\win-x64\publish\TypeSharp.pdb
