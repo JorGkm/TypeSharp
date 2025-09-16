@@ -1,0 +1,15 @@
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\bin\Debug\net9.0\TypeSharp.exe
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\bin\Debug\net9.0\TypeSharp.deps.json
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\bin\Debug\net9.0\TypeSharp.runtimeconfig.json
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\bin\Debug\net9.0\TypeSharp.dll
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\bin\Debug\net9.0\TypeSharp.pdb
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\obj\Debug\net9.0\TypeSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\obj\Debug\net9.0\TypeSharp.AssemblyInfoInputs.cache
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\obj\Debug\net9.0\TypeSharp.AssemblyInfo.cs
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\obj\Debug\net9.0\TypeSharp.csproj.CoreCompileInputs.cache
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\obj\Debug\net9.0\TypeSharp.sourcelink.json
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\obj\Debug\net9.0\TypeSharp.dll
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\obj\Debug\net9.0\refint\TypeSharp.dll
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\obj\Debug\net9.0\TypeSharp.pdb
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\obj\Debug\net9.0\TypeSharp.genruntimeconfig.cache
+C:\Users\jorga\Desktop\TypeSharp\TypeSharp\obj\Debug\net9.0\ref\TypeSharp.dll

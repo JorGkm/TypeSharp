@@ -20,7 +20,7 @@ namespace TypeSharp
         //Lógica del juego
         #region Lógica
             public static void Jugando()
-        {
+            {
             Random azar = new Random();
             int indice = azar.Next(0, Palabras.palabras.Length);
             string palabraActual = Palabras.palabras[indice];
