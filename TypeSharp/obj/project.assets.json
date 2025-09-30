@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorga\\Desktop\\TypeSharp\\TypeSharp\\TypeSharp.csproj",
+      "projectUniqueName": "C:\\Users\\jorga\\Desktop\\Pendrive\\Escritorio Win Sobremesa\\TypeSharp\\TypeSharp\\TypeSharp.csproj",
       "projectName": "TypeSharp",
-      "projectPath": "C:\\Users\\jorga\\Desktop\\TypeSharp\\TypeSharp\\TypeSharp.csproj",
+      "projectPath": "C:\\Users\\jorga\\Desktop\\Pendrive\\Escritorio Win Sobremesa\\TypeSharp\\TypeSharp\\TypeSharp.csproj",
       "packagesPath": "C:\\Users\\jorga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorga\\Desktop\\TypeSharp\\TypeSharp\\obj\\",
+      "outputPath": "C:\\Users\\jorga\\Desktop\\Pendrive\\Escritorio Win Sobremesa\\TypeSharp\\TypeSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jorga\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
