@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorga\\Desktop\\Pendrive\\Escritorio Win Sobremesa\\TypeSharp\\TypeSharp\\TypeSharp.csproj",
+      "projectUniqueName": "F:\\Pendrive\\Escritorio Win Sobremesa\\TypeSharp\\TypeSharp\\TypeSharp.csproj",
       "projectName": "TypeSharp",
-      "projectPath": "C:\\Users\\jorga\\Desktop\\Pendrive\\Escritorio Win Sobremesa\\TypeSharp\\TypeSharp\\TypeSharp.csproj",
+      "projectPath": "F:\\Pendrive\\Escritorio Win Sobremesa\\TypeSharp\\TypeSharp\\TypeSharp.csproj",
       "packagesPath": "C:\\Users\\jorga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorga\\Desktop\\Pendrive\\Escritorio Win Sobremesa\\TypeSharp\\TypeSharp\\obj\\",
+      "outputPath": "F:\\Pendrive\\Escritorio Win Sobremesa\\TypeSharp\\TypeSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jorga\\AppData\\Roaming\\NuGet\\NuGet.Config"
