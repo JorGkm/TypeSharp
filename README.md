@@ -1,12 +1,4 @@
 # TypeSharp
-[![GitHub release](https://img.shields.io/github/v/release/JorGkm/TypeSharp?style=for-the-badge&color=orange)](https://github.com/JorGkm/TypeSharp/releases/latest)
-
-[![License](https://img.shields.io/github/license/JorGkm/TypeSharp?style=for-the-badge&color=blue)](LICENSE)
-
-[![Language](https://img.shields.io/github/languages/top/JorGkm/TypeSharp?style=for-the-badge&color=green)](https://github.com/JorGkm/TypeSharp/search?l=c%23)
-
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge&logo=linux)](https://github.com/JorGkm/TypeSharp/releases/latest)
-
 ```text
   _______                 _____ _
  |__   __|               / ____| |
