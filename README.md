@@ -1,3 +1,12 @@
+_______                 _____ _
+ |__   __|               / ____| |
+    | |   _   _ _ __ ___| (___ | |__   __ _ _ __ _ __
+    | |  | | | | '_ \ _ \\___ \| '_ \ / _` | '__| '_ \
+    | |  | |_| | |_) | __/___) | | | | (_| | |  | |_) |
+    |_|   \__, | .__/  \_____/|_| |_|\__,_|_|  | .__/
+           __/ | |                             | |
+          |___/|_|                             |_|
+
 ## Descripción
 
 Es un muy sencillo, consta de un array de cadenas, en la cuál le he metido varias palabras, de ahí con un Random, coge un número al azar entre el 0 y el número máximo de palabras que tenga el array.
