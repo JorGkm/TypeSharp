@@ -6,12 +6,9 @@ class Program
     {
         Console.Clear();
         //Muestra el mensaje de bienvenida
-        System.Console.Write(Juego.Inicio());
-        Console.ReadLine();
-        Console.Clear();
+        Console.Write(Menu.InicioV2());
+        ConsoleKeyInfo entradaUsuario = Menu.RecibirTecla();
         //Inicia el juego
-        Juego.IniciarJuego();
-        System.Console.WriteLine(Juego.despedida());
-        //Termina el juego
+        Juego.IniciarJuego(entradaUsuario);
     }
 }
