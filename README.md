@@ -27,3 +27,6 @@ En ese caso se le dará un pequeño resumen de su puntuación.
 3. Dale permisos de ejecución con este comando:
    ```bash
    chmod +x TypeSharp
+4. Ejecuta el archivo con este comando:
+   ```bash
+   ./TypeSharp
